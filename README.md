@@ -1,0 +1,17 @@
+# Hi, I'm Rubal Goyal 👋
+
+I'm a passionate and versatile engineer with experience in software development, data engineering, and application testing. I'm always excited to explore new challenges and contribute to building innovative solutions across different domains. I’m currently seeking opportunities in Software Engineering, Application & Testing Engineering, and Data Engineering roles where I can leverage my skills and continuously grow.
+
+## 💼 Skills and Technologies
+- **Programming Languages:** Java, Python, SQL, JavaScript, React, C#
+- **Frameworks & Technologies:** .NET Core, Spring Boot, Docker, PostgreSQL
+- **Tools & Technologies:** Git, Data Modeling, ETL, Big Data Analytics, CI/CD
+- **Software Development:** Object-Oriented Programming (OOP), Algorithms, System Design
+- **Application Testing:** Test Automation, Performance Testing
+
+## 📈 GitHub Stats (Public & Private Repos)
+![Rubal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubalGoyal&show_icons=true&count_private=true)
+
+
+## 📣 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rubalgoyal)

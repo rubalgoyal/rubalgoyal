@@ -5,7 +5,8 @@ I'm a passionate and versatile engineer with experience in software development,
 ## 💼 Skills and Technologies
 - **Programming Languages:** Java, Python, SQL, JavaScript, React, C#
 - **Frameworks & Technologies:** .NET Core, Spring Boot, Docker, PostgreSQL
-- **Tools & Technologies:** Git, Data Modeling, ETL, Big Data Analytics, CI/CD
+- **Big Data Technologies:** Hadoop, Spark, Linux/Unix, Data Engineering, ETL
+- **Tools & Technologies:** Git, Data Modeling, CI/CD, Big Data Analytics
 - **Software Development:** Object-Oriented Programming (OOP), Algorithms, System Design
 - **Application Testing:** Test Automation, Performance Testing
 

@@ -11,8 +11,8 @@ I'm a passionate and versatile engineer with experience in software development,
 - **Application Testing:**         Test Automation, Performance Testing
 
 ## 📈 GitHub Stats (Public & Private Repos)
-![Rubal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubalGoyal&show_icons=true&count_private=true)
-
+![Rubal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubalGoyal&show_icons=true&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubalGoyal&langs_count=10&hide=html&exclude_repo=JupyterNotebook&count_private=false)
 
 ## 📣 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rubalgoyal)

@@ -1,18 +1,21 @@
 
-# 👩‍💻 Rubal Goyal – Software Engineer | Full Stack Developer | Data Enthusiast
+## 👩‍💻 Rubal Goyal – Software Engineer | Full Stack Developer | Data Enthusiast
 
 🎓 **MS in Computer Science, Boise State University (Dec 2024)**  
-💼 Actively seeking full-time roles in Software Engineering, Full Stack Development, or Data Engineering  
+💼 Actively seeking full-time roles in Software Engineering, Full Stack Development, Data Engineering, SRE, or QA Automation  
+<br>
+💡 To support my continuous learning and growth, I actively volunteer with nonprofit organizations that have limited technical resources. This allows me to apply my skills in real-world projects while contributing to meaningful community initiatives.
+
 🌐 [LinkedIn](https://linkedin.com/in/rubalgoyal) | 📫 rubalgoyal@u.boisestate.edu | 📍Boise, ID
 
 ---
 
 ### 🔧 Tech Stack
 **Languages:** Java, Python, JavaScript, SQL, Go  
-**Frameworks & Tools:** Spring Boot, React, Flask, Docker, Kubernetes, gRPC, Redis, Firebase  
+**Frameworks & Tools:** Spring Boot, React, Flask, Docker, Kubernetes, gRPC, Redis, Firebase, Selenium  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Cloud & DevOps:** AWS, GitHub Actions, Jenkins, Vercel  
-**Other:** REST APIs, CI/CD, Agile, JIRA, Selenium
+**Other:** REST APIs, CI/CD, Agile, JIRA, Linux scripting, Monitoring tools
 
 ---
 

@@ -1,19 +1,54 @@
-# Hi, I'm Rubal Goyal 👋
 
-I'm a passionate and versatile engineer with experience in software development, data engineering, and application testing. I'm always excited to explore new challenges and contribute to building innovative solutions across different domains. I’m currently seeking opportunities in Software Engineering, Application and testing Engineering, and Data Engineering roles where I can leverage my skills and grow continuously.
+# 👩‍💻 Rubal Goyal – Software Engineer | Full Stack Developer | Data Enthusiast
 
-## 💼 Skills and Technologies
-- **Programming Languages:**       Java, Python, SQL, JavaScript, React, C#, SQL, MySQL
-- **Frameworks & Technologies:**   .NET Core, Spring Boot, Docker, PostgreSQL, Kubernetes
-- **Big Data Technologies:**       Hadoop, Spark, Linux/Unix, Data Engineering, ETL
-- **Tools & Technologies:**        Git, Data Modeling, CI/CD, Big Data Analytics
-- **Software Development:**        Object-Oriented Programming (OOP), Algorithms, System Design
-- **Application Testing:**         Test Automation, Performance Testing
+🎓 **MS in Computer Science, Boise State University (Dec 2024)**  
+💼 Actively seeking full-time roles in Software Engineering, Full Stack Development, or Data Engineering  
+🌐 [LinkedIn](https://linkedin.com/in/rubalgoyal) | 📫 rubalgoyal@u.boisestate.edu | 📍Boise, ID
 
-## 📈 GitHub Stats (Public & Private Repos)
-![Rubal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubalGoyal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RubalGoyal&hide=jupyter%20notebook&layout=compact)
+---
 
-## 📣 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rubalgoyal)
-- [rubalgoyal@u.boisestate.edu](rubalgoyal@u.boisestate.edu)
+### 🔧 Tech Stack
+**Languages:** Java, Python, JavaScript, SQL, Go  
+**Frameworks & Tools:** Spring Boot, React, Flask, Docker, Kubernetes, gRPC, Redis, Firebase  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Cloud & DevOps:** AWS, GitHub Actions, Jenkins, Vercel  
+**Other:** REST APIs, CI/CD, Agile, JIRA, Selenium
+
+---
+
+### 🚀 Featured Projects
+
+#### 📚 ChiEAC Student Management Platform *(In Progress)*
+**Tech:** React, Python, Firebase, Figma  
+- Leading front-end development to build dynamic student profiles and a responsive tabular view of student data.  
+- Collaborating on backend services using Python and Firebase to modernize legacy Excel-based workflows.  
+- Designed intuitive UI components from Figma mockups to enhance user experience and data accessibility.
+
+#### 🎬 Movie Review Web App
+**Tech:** Java, Spring Boot, MongoDB, React, Docker  
+- Developed a full-stack application enabling users to search, review, and rate movies.  
+- Built RESTful APIs with Spring Boot and MongoDB; deployed a responsive React UI using Docker containers.  
+- Emphasized modular design and scalability for future feature expansion.
+
+#### 🔐 Distributed Identity Management System
+**Tech:** Java, gRPC, Redis, JUnit  
+- Engineered a microservices-based identity management system with SSL validation and fault tolerance.  
+- Implemented gRPC for efficient inter-service communication and Redis for caching and performance.  
+- Achieved high test coverage using JUnit to ensure system reliability.
+
+#### 📊 GitHub Data Pipeline & CI/CD Insights
+**Tech:** Python, MySQL, NLP  
+- Built a scalable pipeline to analyze over 1M GitHub commits across 2,600+ repositories.  
+- Applied NLP techniques to extract trends in CI/CD adoption and its impact on software development cycles.
+
+---
+
+### 🌱 What I'm Learning Now
+- Advanced React patterns and component architecture  
+- Firebase authentication and Firestore integration  
+- Scalable backend design with microservices and event-driven architecture
+
+---
+
+### 📌 Let's Connect!
+I'm passionate about building impactful software and solving real-world problems through code. If you're hiring or collaborating on open-source, feel free to reach out!
